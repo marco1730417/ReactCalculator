@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "marco17304-project-calc",
+    "react-calculator": "marco17304-project-calc"
+  },
+  "targets": {}
+}
